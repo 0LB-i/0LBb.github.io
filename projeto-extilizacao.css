@@ -1,0 +1,23 @@
+
+*{
+    color: black;
+}
+
+.blocos{
+    padding-bottom: 10px;
+    padding-top: 10px;
+    list-style: disc;
+    
+}
+
+.topicos{
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+
+.img{
+    max-block-size: 200px;
+    min-width: 200px;
+    border-radius: 50%;
+    flex-direction: column;
+}
